@@ -46,7 +46,6 @@ client.on("messageCreate", async (message) => {
       //ask chat gpt to fix bug
 
       const result = await fix(fileContent);
-      console.log(result.length);
       // Clean up the import file
       fs.unlinkSync(filePath);
 
