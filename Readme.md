@@ -47,7 +47,7 @@
 ## Example
 
 ![Code Example](https://i.ibb.co/N9dHg7f/Screenshot-2023-05-31-at-11-41-15-AM.png)
-![BugFixer Reply Example](https://i.ibb.co/q5yxkD5/Screenshot-2023-05-31-at-11-30-18-AM.png)
+![BugFixer Reply Example](https://i.ibb.co/fpDvpqR/Screenshot-2023-05-31-at-11-44-49-AM.png)
 
 ## Conclusion
 
