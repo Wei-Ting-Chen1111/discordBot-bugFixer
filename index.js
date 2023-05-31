@@ -63,7 +63,7 @@ const fix = async (code) => {
     },
     {
       role: "user",
-      content: `Review the whole code I provide and check if there is any potential bug,   missing part, or typo that would cuase this app not working from """${code}""" reply the correct code if you find a bug and comment which part you modifed on top of the file. If there is no bug in the code, review the whole code and check if there is any part that can be modify to have better run time or space performance then comment which part you modify and expalin why your code is better then """${code}""". Please conclude the result in the maximum of 1800 characters`,
+      content: `Review the whole code I provide and check if there is any potential bug,   missing part, or typo from """${code}""". Reply the correct code if you find a bug and comment which part you modifed on top of the file. If there is no bug in the code, review the whole code and check if there is any part that can be modify to have better run time or space performance then comment which part you modify and explain why your code is better then """${code}""". Give me a code review report and the modified code that contains maximum 1800 characters in total`,
     },
   ];
 
